@@ -3,5 +3,8 @@ __pycache__/
 *.pyo
 *.pyd
 *.DS_Store
+
 .venv/
-data/
+
+# HW1 data
+Homework1/data/
