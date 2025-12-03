@@ -21,3 +21,11 @@ From the `DeepLearning/` folder:
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
+```
+
+## Running Homework 1
+
+```bash
+cd Homework1
+python hw1-ffn.py 
+```
